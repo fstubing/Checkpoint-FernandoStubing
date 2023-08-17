@@ -1,0 +1,12 @@
+comandos utilizados en este ejercicio:
+-mkdir
+-touch
+-cd
+-mv
+-git add .
+-git commit -m
+-git push
+-git init
+-git branch
+-git checkout
+-git remote add origin

@@ -1,0 +1,5 @@
+memorias principales de un pc:
+- rom
+- ram
+- caché
+
